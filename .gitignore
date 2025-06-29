@@ -1,0 +1,28 @@
+# Logs
+*.log
+*.log.*
+
+# VNC files
+*.pid
+.vnc/
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+
+# User-specific config (keep template)
+kde-vnc-config.conf.user
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Runtime files
+*.sock
+*.lock
